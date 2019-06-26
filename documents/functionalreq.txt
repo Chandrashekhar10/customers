@@ -1,0 +1,14 @@
+
+Functional Requirements-
+1)Admin Functions such as add use,remove user etc.
+2)Authentication
+
+
+
+
+Non-Functional Requirements:
+
+1) Each Employee must have seprate login.
+2) Scalable -> The site must be able add to new city as well as new customers in future. 
+3) Serviceability -> The site must be able to serve multiple user at the same time.
+4) Maintainability -> Site must be easy to maintain. Loosely couplled architecture must be used.  		
